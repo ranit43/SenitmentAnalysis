@@ -1,1 +1,1 @@
-# SenitmentAnalysis
+# SentimentAnalysis
